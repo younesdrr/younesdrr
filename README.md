@@ -22,7 +22,7 @@ I'm a passionate mobile developer focused on building educational technology tha
 
 ## 📌 Featured Project
 
-### BacDz — الباك دي زي
+### BacDz — الباك دي زد
 > An AI-powered mobile app for Algerian Baccalaureate exam preparation.  
 > Features: AI Tutor · Quiz Engine · Study Planner · Progress Dashboard  
 > Built with Flutter | Arabic RTL support | Targeted at Algerian students
